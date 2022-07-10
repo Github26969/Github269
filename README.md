@@ -6,6 +6,8 @@ This is a simple app using [Flask](http://flask.pocoo.org), [SQLAlchemy](http://
 
 ```
 pip install -r requirements.txt
+-r, --requirement <file>
+Install from the given requirements file. 
 ```
 
 ### Running the App
